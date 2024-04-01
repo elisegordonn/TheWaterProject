@@ -8,7 +8,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<WaterProjectContext>(options =>
 {
-    options.UseSqlite(builder.Configuration["ConnectionStrings:WaterConnection"]);
+    // options.UseSqlite(builder.Configuration["ConnectionStrings:WaterConnection"]);
+    options.UseSqlServer(builder.Configuration["ConnectionStrings:WaterConnection"]);
 });
 
 builder.Services.AddScoped<IWaterRepository, EFWaterRepository>();
