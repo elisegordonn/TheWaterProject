@@ -7,5 +7,7 @@ namespace TheWaterProject.Models
 
         public DbSet<Project> Projects => Set<Project>();
         public DbSet<Order> Orders => Set<Order>();
+        public DbSet<User> Users => Set<User>();
+        public DbSet<OrderItem> order_items => Set<OrderItem>();
     }
 }

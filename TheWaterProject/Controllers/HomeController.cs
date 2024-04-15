@@ -13,7 +13,7 @@ namespace TheWaterProject.Controllers
             _repo = temp;
         }
 
-        public IActionResult Index(int pageNum, string? projectType) //dont name this page; that means something else
+        public IActionResult Index(string? projectType, int pageNum = 1) //dont name this page; that means something else
         {
             int pageSize = 4;
             var blah = new ProjectsListViewModel

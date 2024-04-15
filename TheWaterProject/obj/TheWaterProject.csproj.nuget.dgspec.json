@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/TheWaterProject.csproj": {}
+    "/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/TheWaterProject.csproj": {}
   },
   "projects": {
-    "/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/TheWaterProject.csproj": {
+    "/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/TheWaterProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/TheWaterProject.csproj",
+        "projectUniqueName": "/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/TheWaterProject.csproj",
         "projectName": "TheWaterProject",
-        "projectPath": "/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/TheWaterProject.csproj",
+        "projectPath": "/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/TheWaterProject.csproj",
         "packagesPath": "/Users/elisegordon/.nuget/packages/",
-        "outputPath": "/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/obj/",
+        "outputPath": "/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elisegordon/.nuget/NuGet/NuGet.Config"

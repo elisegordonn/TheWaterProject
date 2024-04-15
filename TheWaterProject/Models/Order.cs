@@ -10,6 +10,7 @@ namespace TheWaterProject.Models {
         [BindNever]
         public ICollection<Cart.CartLine> Lines { get; set; } 
             = new List<Cart.CartLine>();
+        public string username { get; set; }
                         
         [Required(ErrorMessage = "Please enter a name")]
         public string? Name { get; set; }
@@ -29,5 +30,10 @@ namespace TheWaterProject.Models {
         
         [Required(ErrorMessage = "Please enter a country name")]
         public string? Country { get; set; }
+        
+        [Required(ErrorMessage = "Please enter an email")]
+        public string? Email { get; set; }
+
+        public bool? EmailUpdates { get; set; } = false;
     }
 }

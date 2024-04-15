@@ -10,6 +10,10 @@
     {
         <partial name="ProjectSummary" model="p"/>
     }
+    @* @foreach (var p in Model.Projects ?? Enumerable.Empty<Project>())  *@
+    @* { *@
+    @*     <partial name="ProjectSummary" model="p"/> *@
+    @* } *@
 
 <div page-model="@Model.PaginationInfo" page-action="Index" page-class-enabled="true" page-class="btn" 
      page-class-normal="btn-outline-dark" page-class-selected="btn-primary"

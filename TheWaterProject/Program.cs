@@ -44,9 +44,13 @@ app.UseRouting();
 app.UseAuthorization();
 
 //order for the map controllers matters; project will go with the first option that it is able to do
-app.MapControllerRoute("pagenumandtype", "{projectType}/{pageNum}", new { Controller = "Home", action = "Index" });
-app.MapControllerRoute("pagination", "{pageNum}", new {Controller = "Home", action = "Index", pageNum = 1 });
-app.MapControllerRoute("projectType", "{projectType}", new { Controller = "Home", action = "Index", pageNum = 1 });
+// app.MapControllerRoute("pagenumandtype", "{projectType}/{pageNum}", new { Controller = "Home", action = "Index" });
+// app.MapControllerRoute("pagination", "{pageNum}", new {Controller = "Home", action = "Index", pageNum = 1 });
+// app.MapControllerRoute("projectType", "{projectType}", new { Controller = "Home", action = "Index", pageNum = 1 });
+app.MapControllerRoute("pagenumandtype", "{projectType}/Page{pageNum}", new { Controller = "Home", Action = "Index" });
+app.MapControllerRoute("page", "Page/{pageNum}", new { Controller = "Home", Action = "Index", pageNum = 1 });
+app.MapControllerRoute("projectType", "{projectType}", new { Controller = "Home", Action = "Index", pageNum = 1 });
+app.MapControllerRoute("pagination", "Projects/Page{pageNum}", new { Controller = "Home", Action = "Index", pageNum = 1 });
 
 app.MapDefaultControllerRoute();
 

@@ -9,59 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TheWaterProject
 build_property.RootNamespace = TheWaterProject
-build_property.ProjectDir = /Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/
+build_property.ProjectDir = /Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/elisegordon/Desktop/TheWaterProject/TheWaterProject
+build_property.MSBuildProjectDirectory = /Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Pages/Cart.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Pages/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Pages/_CartLayout.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Pages/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Pages/_CartLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0NhcnRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Pages/_ViewImports.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Pages/_ViewStart.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/Home/Index.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/Order/Checkout.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/Order/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/Shared/Components/CartSummary/Default.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/Shared/Components/CartSummary/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydFN1bW1hcnkvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/Shared/Components/ProjectTypes/Default.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/Shared/Components/ProjectTypes/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUHJvamVjdFR5cGVzL0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/Shared/ProjectSummary.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/Shared/ProjectSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1Byb2plY3RTdW1tYXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/_ViewImports.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/_ViewStart.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/elisegordon/Desktop/TheWaterProject/TheWaterProject/Views/Shared/_Layout.cshtml]
+[/Users/elisegordon/Desktop/is413/TheWaterProject/TheWaterProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cwhomemwof
